@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">BitesHub</string>
+
+    <!--starter-->
+    <string name="welcomebihub">Welcome to Biteshub, where every bite is a culinary adventure! Get ready to explore a world of limitless flavors.</string>
+    <string name="getstarted">Get Started</string>
+    <string name="haveanaccount">Already Have An Account</string>
+
+    <!--login-->
+    <string name="loginweclome">Welcome Back!</string>
+    <string name="logintext">Lets get you connected to your culinary adventure</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="donthaveaccount">Dont have an account?</string>
+    <string name="signup">Sign Up!</string>
+
+    <!--register-->
+    <string name="textregister">Ready to elevate your culinary experience?</string>
+    <string name="textregisterbwah">Create your BitesHub account now and start exploring a world of flavors and gastronomic delights</string>
+    <string name="username">Username</string>
+    <string name="confirmpassword">Confirm Password</string>
+
+    <string name="emailFormatWrong">Wrong email format</string>
+    <string name="emailTaken">The email you entered is already registered, please change your email</string>
+    <string name="passwordNotMatch">Password Doesnt Match</string>
+
+    <string name="nameNone">Name cannot be empty</string>
+    <string name="passwordLess">Password <mu></mu>st be at least 8 characters</string>
+    <string name="passwordVisible">Show Password</string>
+
+</resources>
