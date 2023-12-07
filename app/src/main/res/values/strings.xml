@@ -29,4 +29,13 @@
     <string name="passwordLess">Password <mu></mu>st be at least 8 characters</string>
     <string name="passwordVisible">Show Password</string>
 
+    <string name="emailNone">Email cannot be empty</string>
+    <string name="passwordNone">Password cannot be empty</string>
+    <string name="passwordConfirmNone">Confirm password cannot be empty</string>
+    <string name="name">Name</string>
+
+    <string name="invalidLogin">Enter your account data correctly!</string>
+    <string name="createAccount">Create Account</string>
+    <string name="accountSuccessCreated">Yipi account successfully created</string>
+
 </resources>
