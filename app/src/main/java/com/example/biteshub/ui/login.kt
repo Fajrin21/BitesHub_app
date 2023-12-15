@@ -1,7 +1,5 @@
 package com.example.biteshub.ui
 
-import android.animation.AnimatorSet
-import android.animation.ObjectAnimator
 import android.content.Context
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -44,7 +42,7 @@ class login : AppCompatActivity() {
 
         dataStoreViewModel.getLoginSession().observe(this) { sessionTrue ->
             if (sessionTrue) {
-                val intent = Intent(this@login, MainActivity::class.java)
+                val intent = Intent(this@login, home::class.java)
                 intent.flags = Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TASK
                 startActivity(intent)
             }
