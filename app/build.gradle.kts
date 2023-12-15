@@ -46,6 +46,7 @@ android {
 
 dependencies {
 
+    implementation ("com.google.android.material:material:1.1.0")
     implementation("androidx.test.espresso:espresso-contrib:3.4.0")
     implementation("androidx.test.espresso:espresso-idling-resource:3.4.0")
     androidTestImplementation("androidx.test.espresso:espresso-intents:3.4.0")

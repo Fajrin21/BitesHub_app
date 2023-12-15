@@ -15,7 +15,7 @@
         android:theme="@style/Theme.BitesHub"
         tools:targetApi="31">
         <activity
-            android:name=".ui.listpost"
+            android:name=".addStory"
             android:exported="false" />
         <activity
             android:name=".ui.home"
